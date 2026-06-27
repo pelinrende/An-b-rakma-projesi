@@ -116,7 +116,7 @@
             </p>
 
             <a class="btn btn-primary" href="/ani-birak">Yeni Anı Bırak</a>
-            <a class="btn btn-primary" href="/ani-birak">Herkese Açık Anıları görüntüle</a>
+            <a class="btn btn-secondary" href="/galeri">✨ Herkese Açık Anılara Bak</a>
             <a class="btn btn-secondary" href="/">Ana Sayfaya Dön</a>
         </div>
 
