@@ -115,9 +115,11 @@
                 İsterseniz herkese açık anıları görüntüleyebilirsiniz.
             </p>
 
-            <a class="btn btn-primary" href="/ani-birak">Yeni Anı Bırak</a>
-            <a class="btn btn-secondary" href="/galeri">✨ Herkese Açık Anılara Bak</a>
-            <a class="btn btn-secondary" href="/">Ana Sayfaya Dön</a>
+            <a class="btn btn-primary" href="/ani-birak">➕ Yeni Anı Bırak</a>
+
+            <a class="btn btn-secondary" href="/galeri">🖼️ Herkese Açık Anıları Görüntüle</a>
+
+            <a class="btn btn-secondary" href="/">🏠 Ana Sayfaya Dön</a>
         </div>
 
         <script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.9.3/dist/confetti.browser.min.js"></script>
